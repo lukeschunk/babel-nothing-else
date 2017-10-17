@@ -1,0 +1,17 @@
+{
+  "name": "babel-test-yeah-woo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yeahyeah": "babel src --out-file dev.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
